@@ -116,16 +116,6 @@ https://linkedin.com/in/navin-p
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinnavinp80-a11y&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navinnavinp80-a11y&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=navinnavinp80-a11y&theme=tokyonight)
-
----
-
 ## 💡 Quote
 
 > "Code. Learn. Build. Repeat."
