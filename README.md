@@ -1,16 +1,133 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Navin P</h1>
+<h3 align="center">MERN Stack Developer | Full Stack Developer | AI Enthusiast</h3>
 
-<!--
-**navinnavinp80-a11y/navinnavinp80-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about building scalable web applications using the MERN Stack and integrating AI into modern applications.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Bachelor of Computer Application (2022 – 2025)
+- 💻 MERN Stack Developer
+- 🌱 Currently learning Advanced MERN & AI Integration
+- 🤖 Interested in AI Powered Web Applications
+- 🚀 Love building real-world scalable projects
+- 📍 Calicut, Kerala, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🤝 Collabrix – AI Powered Freelancing Platform
+
+An AI-powered freelancing platform that connects clients with freelancers through intelligent team matching.
+
+### Features
+
+- 🔐 Secure Authentication
+- 🤖 AI Team Matching
+- 💬 Real-time Chat
+- 🎥 Video Meetings
+- 📋 Task Management
+- 📊 Dashboard
+- ⚡ REST APIs
+- 🍃 MongoDB Database
+
+---
+
+### 🎓 AI Powered Learning Management System
+
+A modern LMS built with the MERN Stack.
+
+### Features
+
+- Student Management
+- Instructor Dashboard
+- Course Management
+- Secure Authentication
+- AI Learning Assistant
+- Personalized Recommendations
+- Payment Integration
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern
+**CyberSquare**
+
+- Built responsive React applications
+- Developed REST APIs using Express & Node.js
+- Worked with MongoDB
+- Built scalable full-stack applications
+- Wrote clean and maintainable code
+
+---
+
+## 📚 Education
+
+**Bachelor of Computer Application**
+
+Calicut University
+
+2022 – 2025
+
+---
+
+## 🌍 Languages
+
+- Malayalam
+- English
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: navinnavinp80@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/navin-p
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navinnavinp80-a11y&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navinnavinp80-a11y&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=navinnavinp80-a11y&theme=tokyonight)
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile!
