@@ -7,8 +7,7 @@ Passionate about building scalable web applications using the MERN Stack and int
 
 ---
 
-## <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/2e8f4bea-3e52-43f5-af05-d3786eb88751" />
- About Me
+## 🤵‍♂️About Me
 
 - 🎓 Bachelor of Computer Application (2022 – 2025)
 - 💻 MERN Stack Developer
