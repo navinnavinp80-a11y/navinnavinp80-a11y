@@ -7,7 +7,7 @@ Passionate about building scalable web applications using the MERN Stack and int
 
 ---
 
-## <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/807beae3-afe8-49e7-9935-9f31afc45080" />
+## <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/2e8f4bea-3e52-43f5-af05-d3786eb88751" />
  About Me
 
 - 🎓 Bachelor of Computer Application (2022 – 2025)
