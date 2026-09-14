@@ -7,7 +7,7 @@ Passionate about building scalable web applications using the MERN Stack and int
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Bachelor of Computer Application (2022 – 2025)
 - 💻 MERN Stack Developer
